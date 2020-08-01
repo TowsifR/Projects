@@ -6,5 +6,5 @@ My name is Towsif Rahman, and this is my portfolio. After learning Python, I dec
 * The AI works by considering all possible moves and future moves by the user, coming up with the optimal solution.
 * In moving optimally each turn, it is impossible to win against the AI
 
-![](https://github.com/TowsifR/Projects/blob/master/Images/tictactoe.png)
+![](/Images/tictactoe.png)
 
