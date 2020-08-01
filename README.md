@@ -13,7 +13,7 @@ My name is Towsif Rahman, and this is my portfolio. After learning Python, I dec
 * The training data features the textual review, and a rating out of five stars. These two pieces of informations were used by the model.
 * The model uses the sklearn library to turn words in vectors, which can be used for model training. 
 * The model achieved an 85% accuracy on testing data, and can also predict whether a text is good/bad on user input.
- ![](/Images/Sentiment%20Analysis.PNG)
+ ![](/Images/NLP.PNG)
 
 ### Project 3: Neural Networks with Tesorflow
 * The MNIST dataset of 60 000+ images of handwritten digits were used to train a convolutional neural network in Tensorflow
