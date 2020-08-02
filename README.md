@@ -15,7 +15,7 @@ My name is Towsif Rahman, and this is my portfolio. After learning Python, I dec
 * The model achieved an 85% accuracy on testing data, and can also predict whether a text is good/bad on user input.
  ![](/Images/NLP.PNG)
 
-### Project 3: Neural Networks with Tesorflow
+### Project 3: Neural Networks with Tensorflow
 * The MNIST dataset of 60 000+ images of handwritten digits were used to train a convolutional neural network in Tensorflow
 * Icon images of size 28 x 28 pixels are first loaded in grayscale, flattened into a one-dimensional array of 1 x 784, and then passed into the model.
 * The model achieved a 98% accuracy on training data
