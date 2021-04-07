@@ -15,7 +15,7 @@ Below is an example of a clustering exercise, where mock data was created and th
 * Designed the webpage with HTML and CSS
 * Connects with the OpenWeatherMap Api to retrieve real-time weather information for different cities.
 * Stores the cities the user searches in an SQLite Database, to be easily viewed when the application is closed and opened later.
- ![](/Images/NLP.PNG)
+ ![](/Images/WeatherApp.JPG)
 
 ### Project 3: Analyzing Text with Natural Processing
 * I downloaded book reviews off the internet, and trained a model to predict if a text could be positive or negative.
